@@ -1,0 +1,85 @@
+h2{
+    text-align: center;
+    color: darkblue;
+}
+
+#banner {
+    width: 100%;
+    object-fit: cover;
+}
+
+.location{
+    color: gray;
+}
+
+.nav-bar{
+ padding: 10px;
+ margin: 0;
+}
+
+.about{
+    display: flex;
+    max-width: 800px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+#description{
+    width: 75%;
+    margin-top: 0;
+    margin-right: 10px;
+}
+
+#teamImage{
+    width: 50%;
+}
+#teamBanner{
+    width: 100%;
+    height:300px;
+    border-radius: 5px;
+}
+
+#desc{
+ margin-top: 0;
+ padding: 10px;
+ padding-top: 0;
+}
+
+#jobs{
+    padding: 0 10px;
+    margin: 0 auto;
+    max-width: 850px; /*-------------------------------------------------  Very Important Point ---------------------------------------------------------- */
+}
+
+h3{
+    margin-bottom: 4px;
+}
+
+.apply{
+    float: right;
+    margin-right: 5%;
+}
+h1{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.footer{
+    background-color: ghostwhite;
+    padding: 8px ;
+    margin-top: 20px;  
+    text-align: center;
+}
+
+.footer-links li{
+    list-style: none;
+    display: inline;
+    margin:0 20px;
+}
+
+#copyright {
+    color: gray;
+}
